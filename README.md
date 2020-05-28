@@ -1,6 +1,6 @@
 # Generative Adverserial Networks (GANs)
 
-This repository contains thoery and pytorch code for building and training generative adverserial networks (GANs).
+This repository contains theory and pytorch code for building and training generative adverserial networks (GANs).
 
 ## Overview
 
